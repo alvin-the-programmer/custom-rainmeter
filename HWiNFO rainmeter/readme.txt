@@ -1,0 +1,1 @@
+based off Pul53dr1v3r's illustro Pulsar 1.5 skin, uses HWiNFO for hardware monitoring data 
